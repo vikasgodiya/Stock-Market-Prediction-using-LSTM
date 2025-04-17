@@ -1,0 +1,2 @@
+This is a Stock Market Prediction app, when you will run this in your vs code,
+To run : type streamlit run antestsmp.py and to select stock just write the number corresponding to the stock and you will get stock prediction in Streamlit's UI on chrome
